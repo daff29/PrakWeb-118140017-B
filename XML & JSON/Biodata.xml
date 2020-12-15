@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Biodata>
+    <Nama>
+        <NamaDepan>Ilman</NamaDepan>
+        <NamaBelakang>Abdillah</NamaBelakang>
+    </Nama>
+
+    <NIM>118140081</NIM>
+    
+    <JenisKelamin>Laki-laki</JenisKelamin>
+
+    <Usia>20</Usia>
+
+    <Saudara>Dua</Saudara>
+
+    <Hobby>Mabar</Hobby>
+
+    <Alamat>
+        <Desa>Desa Way Hui</Desa>
+        <Kecamatan>Jati Agung</Kecamatan>
+        <Kabupaten>Lampung Selatan</Kabupaten>
+    </Alamat>
+
+    <SocialMedia>
+        <Facebook>IlmanAbdillah</Facebook>
+        <Instagram>IlmanAbdillah</Instagram>
+    </SocialMedia>
+</Biodata>
